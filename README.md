@@ -3,6 +3,9 @@ The original snake game written in pure python for replit shell and other unix s
 
 **Basic Retro snake game written to play in python terminal for replit. Built for a school open evening demo.**
 
+
+![Game Screenshot](images/image.png)
+
 > Uses unix specific modules for keyboard input
 >
 > Just re-write getch.py and it will work on windows :)
