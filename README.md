@@ -1,2 +1,2 @@
 # Snake-Game-Python-Shell
-The original snake game written in python for replit shell and other unix systems
+The original snake game written in pure python for replit shell and other unix systems
